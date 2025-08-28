@@ -1,0 +1,5 @@
+sqlite3          # built-in, DB
+bcrypt           # password hashing
+openai           # GenAI integration
+prompt_toolkit   # enhanced CLI experience
+rich             # pretty CLI output
