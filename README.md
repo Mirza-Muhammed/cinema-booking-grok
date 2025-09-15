@@ -37,7 +37,7 @@
 
 ## 🛠 Technologies
 
-Python | FastAPI | SQLite | Postman | LLMs (Grok, LLaMA2) | Gen AI | JSON 
+Python | FastAPI | SQLite | Postman | LLMs (Grok, LLaMA2) | JSON | Gen AI 
 
 ---
 <a id="documentation"></a>
