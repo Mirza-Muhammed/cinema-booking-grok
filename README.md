@@ -31,13 +31,13 @@
   - Rescheduling
   - Payments
   - Greetings & other utilities
-- **🧠 Gem AI Integration** – Humanizes LLM outputs, making them more natural and engaging
+- **🧠 Gen AI Integration** – Humanizes LLM outputs, making them more natural and engaging
 - **🧪 API Testing with Postman** – Pre-configured collection for testing endpoints
 ---
 
 ## 🛠 Technologies
 
-Python | FastAPI | SQLite | Postman | Docker | LLMs (Grok, LLaMA2) | Gem AI | JSON | JWT Authentication  
+Python | FastAPI | SQLite | Postman | Docker | LLMs (Grok, LLaMA2) | Gen AI | JSON | JWT Authentication  
 
 ---
 <a id="documentation"></a>
