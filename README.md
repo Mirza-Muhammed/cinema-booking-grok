@@ -417,7 +417,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - **Issues**: [GitHub Issues](https://github.com/Mirza-Muhammed/cinema-booking-grok/issues)
-- **Email**: mirzamuhammed@example.com
+- **Email**: mirzamuhammedofficial@gmail.com
 - **Documentation**: [Project Wiki](https://github.com/Mirza-Muhammed/cinema-booking-grok/wiki)
 
 ---
