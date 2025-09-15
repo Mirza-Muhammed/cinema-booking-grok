@@ -37,7 +37,7 @@
 
 ## 🛠 Technologies
 
-Python | FastAPI | SQLite | Postman | Docker | LLMs (Grok, LLaMA2) | Gen AI | JSON | JWT Authentication  
+Python | FastAPI | SQLite | Postman | LLMs (Grok, LLaMA2) | Gen AI | JSON 
 
 ---
 <a id="documentation"></a>
