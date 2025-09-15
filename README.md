@@ -11,7 +11,9 @@
 
 *This project combines traditional APIs with conversational AI, enabling users to log in, chat naturally, and perform tasks like ticket booking, movie rescheduling, and payments through simple dialogue.*
 
-[🚀 Quick Start](#-quick-start) • [📖 Documentation](#-documentation) • [🔧 API Reference](#-api-reference) • [🤝 Contributing](#-contributing)
+[🚀 Quick Start](#-quick-start) • [📖 Documentation](#system-architecture)
+ •[🔧 API Reference](#api-endpoints)
+ • [🤝 Contributing](#-contributing)
 
 </div>
 
